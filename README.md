@@ -1,12 +1,13 @@
 ###Hi I'm Vlad 👋
-Статус: (Активно ищу работу) Стремящийся Java developer с учебным опытом, готовый внести свой вклад в команду разработчиков!
 
+Статус: (Активно ищу работу) Стремящийся Java developer с учебным опытом, готовый внести свой вклад в команду разработчиков!
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:vlad-st000@yandex.ru'>vlad-st000@yandex.ru</a>
 </p>
 
 My opensource projects
+
 Simple Java Web-application с микросервисной архитектурой, позволяющее вести дневник просмотра в JSON формате в БД, с авторизацией и единой точкой входа для последующего перенаправления на нужный микросервис "Viewing book": 
 -[Spring](https://github.com/TaarMaan/Spring)
 -[SpringAuth](https://github.com/TaarMaan/SpringAuth)
@@ -18,9 +19,10 @@ My educational projects
 
 🛠 Technical Stack
 Знаю/Использую
-- <img src="https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=Spring&logoColor=BLACk"/>, <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=WHITE"/>,<img src="https://img.shields.io/badge/Maven-FF0000?style=for-the-badge&logo=apachemaven&logoColor=BLACk"/>, <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=WHITE"/>, <img src="https://img.shields.io/badge/FlyWay-2496ED?style=for-the-badge&logo=flyway&logoColor=WHITE"/>, <img src="https://img.shields.io/badge/Spring Framework-32CD32?style=for-the-badge&logo=spring&logoColor=BLACk"/> and so on...
-Знаком
-- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=WHITE"/>, <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=WHITE"/>,  <img src="https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github&logoColor=WHITE"/>, <img src="https://img.shields.io/badge/Git-Black?style=for-the-badge&logo=git&logoColor=WHITE"/>, <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=git&logoColor=WHITE"/>, <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=WHITE"/>, <img src="https://img.shields.io/badge/JUint5-25A162?style=for-the-badge&logo=junit5&logoColor=WHITE"/>
+- <img src="https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=Spring&logoColor=BLACk"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Maven-FF0000?style=for-the-badge&logo=apachemaven&logoColor=BLACk"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=WHITE"/> <img src="https://img.shields.io/badge/FlyWay-2496ED?style=for-the-badge&logo=flyway&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Spring Framework-32CD32?style=for-the-badge&logo=spring&logoColor=BLACk"/> and so on...
+
+🛠 Знаком
+- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=BLACK"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=BLACK"/> <img src="https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github&logoColor=BLACK"/> <img src="https://img.shields.io/badge/Git-Black?style=for-the-badge&logo=git&logoColor=BLACK"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=git&logoColor=BLACK"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=BLACK"/> <img src="https://img.shields.io/badge/JUint5-25A162?style=for-the-badge&logo=junit5&logoColor=BLACK"/>
 
 
 <div align="center" style="margin: 40px 0">
