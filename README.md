@@ -10,7 +10,7 @@
        <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=WHITE"/>
    </a>
    <a href="https://t.me/TaarMaan">
-       <img src="https://img.shields.io/badge/Skype-26A5E4?style=for-the-badge&logo=telegram&logoColor=WHITE"/>
+       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=WHITE"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:vlad-st000@yandex.ru'>vlad-st000@yandex.ru</a>
