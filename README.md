@@ -20,13 +20,17 @@ My opensource projects
 
 Микросервис с Spring Cloud Server, сервером авторизации пользователей Keycloak
 Spring Framework (Boot, Web, Dat JPA, Security), Docker, Kafka, Keycloak, PostgreSQL
+
 -[Приложение](https://github.com/TaarMaan/CompanyMicrosrvices)
+
 -[Сервер](https://github.com/TaarMaan/Configuration)
 
 Simple Java Web-application с микросервисной архитектурой, позволяющее вести дневник просмотра в JSON формате в БД, с авторизацией и единой точкой входа для последующего перенаправления на нужный микросервис "Viewing book": 
 
 -[Spring](https://github.com/TaarMaan/Spring)
+
 -[SpringAuth](https://github.com/TaarMaan/SpringAuth)
+
 -[SpringApiGateway](https://github.com/TaarMaan/SpringApiGateway)
 
 My educational projects
