@@ -33,16 +33,19 @@ Simple Java Web-application с микросервисной архитектур
 
 -[SpringApiGateway](https://github.com/TaarMaan/SpringApiGateway)
 
+
 My educational projects
 Учебные проекты с SSAU ФИИТ
 - [Educational](https://github.com/TaarMaan/Magistr_Studies)
 
+
 🛠 Technical Stack
 Знаю/Использую
-- <img src="https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=Spring&logoColor=BLACk"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Maven-FF0000?style=for-the-badge&logo=apachemaven&logoColor=BLACk"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Spring Framework-32CD32?style=for-the-badge&logo=spring&logoColor=BLACk"/> and so on...
+- <img src="https://img.shields.io/badge/Java-BLACK?style=for-the-badge&logo=Spring&logoColor=32CD32"/> <img src="https://img.shields.io/badge/PostgreSQL-BLACK?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Maven-BLACK?style=for-the-badge&logo=apachemaven&logoColor=FF0000"/> <img src="https://img.shields.io/badge/Docker-BLACK?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Spring Framework-BLACK?style=for-the-badge&logo=spring&logoColor=32CD32"/> <img src="https://img.shields.io/badge/Postman-BLACK?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/JUint5-BLACK?style=for-the-badge&logo=junit5&logoColor=25A162"/> <img src="https://img.shields.io/badge/FlyWay-BLACK?style=for-the-badge&logo=flyway&logoColor=2496ED"/>
 
 🛠 Знаком
-- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=WHITE"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=WHITE"/> <img src="https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Git-Black?style=for-the-badge&logo=git&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=WHITE"/> <img src="https://img.shields.io/badge/JUint5-25A162?style=for-the-badge&logo=junit5&logoColor=WHITE"/> <img src="https://img.shields.io/badge/FlyWay-2496ED?style=for-the-badge&logo=flyway&logoColor=WHITE"/>
+- <img src="https://img.shields.io/badge/HTML-BLACK?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-BLACK?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/GitHub-BLACK?style=for-the-badge&logo=github&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Git-BLACK?style=for-the-badge&logo=git&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Kubernetes-BLACK?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/> 
+and so on...
 
 
 <div align="center" style="margin: 40px 0">
