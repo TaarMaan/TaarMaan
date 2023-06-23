@@ -27,7 +27,7 @@ Spring Framework (Boot, Web, Dat JPA, Security), Docker, Kafka, Keycloak, Postgr
 
 CalculationTests (pet-project) - Spring-Angular приложение, отображающее различные этапы тестирования приложение (testcontainers,cucumber,karma,e2e)
 
--[](https://github.com/TaarMaan/CalculationTests/tree/master)
+-[](https://github.com/TaarMaan/CalculationTests)
 
 Simple Java Web-application с микросервисной архитектурой, позволяющее вести дневник просмотра в JSON формате в БД, с авторизацией и единой точкой входа для последующего перенаправления на нужный микросервис "Viewing book": 
 
