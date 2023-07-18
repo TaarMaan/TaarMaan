@@ -18,6 +18,11 @@
 
 My opensource projects
 
+Tasklist - приложение поможет вам организовать создание задач для пользователей и доступ к ним.
+(Spring Framework (Boot, Web, Dat JPA, Security, MVC), Docker, Redis, MiniO, liquibase
+
+-[Tasklist](https://github.com/TaarMaan/tasklist)
+
 Микросервис с Spring Cloud Server, сервером авторизации пользователей Keycloak
 Spring Framework (Boot, Web, Dat JPA, Security), Docker, Kafka, Keycloak, PostgreSQL
 
@@ -45,10 +50,10 @@ My educational projects
 
 🛠 Technical Stack
 Знаю/Использую
-- <img src="https://img.shields.io/badge/Java-BLACK?style=for-the-badge&logo=Spring&logoColor=32CD32"/> <img src="https://img.shields.io/badge/PostgreSQL-BLACK?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Maven-BLACK?style=for-the-badge&logo=apachemaven&logoColor=FF0000"/> <img src="https://img.shields.io/badge/Docker-BLACK?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Spring Framework-BLACK?style=for-the-badge&logo=spring&logoColor=32CD32"/> <img src="https://img.shields.io/badge/Postman-BLACK?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/JUint5-BLACK?style=for-the-badge&logo=junit5&logoColor=25A162"/> <img src="https://img.shields.io/badge/FlyWay-BLACK?style=for-the-badge&logo=flyway&logoColor=2496ED"/>
+- <img src="https://img.shields.io/badge/Java-BLACK?style=for-the-badge&logo=Spring&logoColor=32CD32"/> <img src="https://img.shields.io/badge/PostgreSQL-BLACK?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Maven-BLACK?style=for-the-badge&logo=apachemaven&logoColor=FF0000"/> <img src="https://img.shields.io/badge/Docker-BLACK?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Spring Framework-BLACK?style=for-the-badge&logo=spring&logoColor=32CD32"/> <img src="https://img.shields.io/badge/Postman-BLACK?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/FlyWay-BLACK?style=for-the-badge&logo=flyway&logoColor=2496ED"/> <img src="https://img.shields.io/badge/LiquiBase-BLACK?style=for-the-badge&logo=liquibase&logoColor=2496ED"/> <img src="https://img.shields.io/badge/GitHub-BLACK?style=for-the-badge&logo=github&logoColor=WHITE"/>
 
 🛠 Знаком
-- <img src="https://img.shields.io/badge/HTML-BLACK?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-BLACK?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/GitHub-BLACK?style=for-the-badge&logo=github&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Git-BLACK?style=for-the-badge&logo=git&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Kubernetes-BLACK?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/> 
+- <img src="https://img.shields.io/badge/HTML-BLACK?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-BLACK?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/GitHub-BLACK?style=for-the-badge&logo=github&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Git-BLACK?style=for-the-badge&logo=git&logoColor=WHITE"/> <img src="https://img.shields.io/badge/Redis-BLACK?style=for-the-badge&logo=redis&logoColor=red"/> <img src="https://img.shields.io/badge/MiniO-BLACK?style=for-the-badge&logo=minio&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Kubernetes-BLACK?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/> <img src="https://img.shields.io/badge/JUint5-BLACK?style=for-the-badge&logo=junit5&logoColor=25A162"/>
 and so on...
 
 
